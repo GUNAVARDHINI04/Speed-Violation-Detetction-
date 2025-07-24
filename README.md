@@ -44,11 +44,11 @@ Alert Handling: Edit socket settings in main.py to match your admin machine's IP
 📬 Contact
 If you have questions or suggestions, feel free to open an issue or reach out:
 
-Name: Mannepalli Venkata Aakash
+Name: Rongala Gunavardhini
 
-Email: mvrrao1970@gmail.com
+Email: grongala2@gitam.in
 
-LinkedIn: https://www.linkedin.com/in/aakash-mannepalli-89a4972a8/
+LinkedIn: https://www.linkedin.com/in/guna-vardhini-83a523296/
 
 
 
